@@ -1,5 +1,5 @@
 {
-  "name": "merujan99/laravel-video-embed",
+  "name": "drolean/laravel-video-embed",
   "type": "library",
   "description": "Laravel Package for dereuromark/MediaEmbed With Thumbnail",
   "keywords": ["laravel","package development"],
@@ -20,6 +20,6 @@
       "preferred-install": "dist"
   },
   "require": {
-    "dereuromark/media-embed": "^0.3.0"
+    "dereuromark/media-embed": "^0.4"
   }
 }
